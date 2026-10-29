@@ -1,4 +1,4 @@
-/* Generator Prompt Karakter Sheet - embed untuk Blogger (deploy otomatis)
+/* Generator Prompt Karakter Sheet - embed untuk Blogger
    Pemakaian: <div id="ksh-app"></div>
    <script src="https://cdn.jsdelivr.net/gh/USERNAME/REPO@main/karakter.js"></script>
 */
